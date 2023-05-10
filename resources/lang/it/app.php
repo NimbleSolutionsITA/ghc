@@ -59,7 +59,6 @@ return [
     'recentNews' => 'News recenti',
     'infosWidgetTitle' => 'Inofrmazioni <span>utili</span>',
     'infosWidgetSub' => 'Today still wanted by the government they survive as soldiers of fortune love exciting and new come aboard were expecting you love life is sweetest reward Let it flow it floats back to you there',
-    'readMore' => 'leggi tutto',
     'beds' => 'Posti<br> letto',
     'accreditedBeds' => 'Posti letto accreditati',
     'numDocs' => 'Numero di dottori',
@@ -186,6 +185,8 @@ return [
     'rating-esg' => 'Rating ESG',
     'policy-esg' => 'Policy ESG',
     'storie' => 'Storie di Sostenibilità',
+    'erm-controllo-interno' => 'Enterprise Risk Management e Controllo Interno',
+    'erm-controllo-internoSpan' => 'Enterprise Risk Management e <span>Controllo Interno</span>',
 ]
 
 ?>

@@ -185,6 +185,8 @@ return [
     'rating-esg' => 'Rating ESG',
     'policy-esg' => 'ESG Policy',
     'storie' => 'Sustainability Stories',
+    'erm-controllo-interno' => 'Enterprise Risk Management e Controllo Interno',
+    'erm-controllo-internoSpan' => 'Enterprise Risk Management e <span>Controllo Interno</span>',
 ]
 
 

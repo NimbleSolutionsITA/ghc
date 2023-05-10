@@ -99,6 +99,7 @@ class ContentController extends Controller
                     'assemblea-azionisti' => trans('app.assemblea-azionisti'),
                     'avvisi' => trans('app.avvisi'),
                     'remunerazione' => trans('app.remunerazione'),
+                    'erm-controllo-interno' => trans('app.erm-controllo-interno'),
                 );
                 break;
 
